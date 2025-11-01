@@ -18,10 +18,17 @@ Si detecta un cambio real en una nota (ignorando los "falsos positivos" como la 
 Tecnologías Utilizadas:
 
 Python 3
+
 Selenium: Para la automatización del navegador y el login asistido.
+
 Requests: Para manejar la sesión y descargar el PDF.
+
 PdfPlumber: Para extraer el texto del PDF.
+
 JSON: Para guardar la "línea base" de las notas.
+
 re (Expresiones Regulares): Para el parseo del texto.
+
 Venv: Para la gestión del entorno de desarrollo en Ubuntu.
+
 (Asistido por Gemini AI para la depuración y desarrollo del código base)
