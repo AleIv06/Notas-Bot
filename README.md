@@ -43,7 +43,7 @@ Si se detecta una diferencia, se envía una alerta al usuario con indicadores vi
 1.  **Clonar el repositorio:**
     ```bash
     git clone [https://github.com/AleIv06/Notas-Bot.git](https://github.com/AleIv06/Notas-Bot.git)
-    cd uni-notinotas-bot
+    cd Notas-Bot
     ```
 
 2.  **Instalar dependencias:**
